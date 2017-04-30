@@ -1,7 +1,7 @@
-# Spring MVC Enterprice (Custom annotations)
+# Javax.validation (Custom annotations)
 
 In this project we gonna create own validation annotation(s) and for example 
-we will use it in Spring MVC & Maven web application.
+we will use it in <b>Spring MVC &amp; Maven</b> web application.
 
 Check this two classes : 
 
